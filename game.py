@@ -1,7 +1,5 @@
 import random
 
-#help
-
 #create the GAMEBOARD
 grids = [" - ", " - "," - ", " - "," - ", " - "," - ", " - "," - "]
 
